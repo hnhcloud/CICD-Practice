@@ -1,4 +1,4 @@
 # CICD-Practice
 CICD-Practice
 
-![example branch parameter.](https://github.com/mona/special-octo-eureka/actions/workflows/grading.yml/badge.svg?branch=my-workflow)
+[![Workflow Name](https://github.com/hnhcloud/CICD-Practice/actions/workflows/action.yml/badge.svg)](https://github.com/hnhcloud/CICI-Practice/actions/workflows/action.yml)
